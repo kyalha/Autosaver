@@ -33,7 +33,7 @@ Example of a property bat:
 minutes=15
 pathTo=C\:\\Users\\Documents
 
-2\ Copy a file or a directory:
+3/ Copy a file or a directory:
         
         File destDir = new File(pathTo);
         File srcFile = new File(pathFrom);
