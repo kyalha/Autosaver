@@ -1,6 +1,8 @@
 # Autosaver
 An autosaver application made for copy/paste a file or a directory with a timeout.
 
+![alt text](https://raw.githubusercontent.com/kyalha/Autosaver/master/autosaver.PNG)
+
 Coded in Java with a simple structure:
 JavaApplication (main function)
 JFrame (UI)
